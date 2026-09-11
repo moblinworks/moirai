@@ -1,2 +1,0 @@
-# moirai
-Umamusume race simulator
