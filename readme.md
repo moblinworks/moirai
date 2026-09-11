@@ -2,7 +2,7 @@
 
 ![](ReadmeImages/screenshot1.png)
 
-Moirai is an Umamusume race simulator, based on the mechanics discovered by fans and documented by KuromiAK in [this Google doc](https://docs.google.com/document/d/15VzW9W2tXBBTibBRbZ8IVpW6HaMX8H0RP03kq6Az7Xg/). It is not a perfect emulation of Umamusume race mechanics, there are mistakes in implementation and missing features, but it should be a more accurate predictor of a runner's success than other online "umalators" which do not simulate lane movement, position, blocking, vision, distance loss on corners, multiple runners, among many other things.
+Moirai is an Umamusume race simulator, based on the mechanics discovered by fans and documented by KuromiAK in [this Google doc](https://docs.google.com/document/d/15VzW9W2tXBBTibBRbZ8IVpW6HaMX8H0RP03kq6Az7Xg/). Its purpose is to help players of Umamusume make more informed decisions when creating veterans for PVP content. It is not a perfect emulation of Umamusume race mechanics, there are mistakes in implementation and missing features, but it should be a more accurate predictor of a runner's success than other online "umalators" which do not simulate lane movement, position, blocking, vision, distance loss on corners, multiple runners, among many other things.
 
 Some hotkeys:<br>
 `Tab` - Open/close stats window<br>
