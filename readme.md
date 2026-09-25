@@ -6,6 +6,7 @@ Moirai is an Umamusume race simulator, based on the mechanics discovered by fans
 
 Some hotkeys:<br>
 `Tab` - Open/close stats window<br>
+`Space` - Play/pause<br>
 `<` - Decrease playback speed <br>
 `>` - Increase playback speed <br>
 `,` - Back one frame <br>
@@ -21,11 +22,8 @@ Some hotkeys:<br>
 
 ## Future Work
 
-* **Power Conservation/Fully Charged system**. Details of how this works are unknown to the race mechanics Google doc.
-* **1.5th Anniversary changes to position keep**. Details also unknown.
-* **Teams**. Currently, skills like *Ignited Spirit: Speed* grant your runner the maximum bonus. Debuffs can target anyone.
+* **1.5th Anniversary changes to position keep**. Details of how this works are unknown to the race mechanics Google doc.
 * **Popularity**. Skills like *Long Shot* and *Laugh at the Odds* that depend on favourites to win all assume for now that the skill owner is the No. 1 favourite.
-* **Mood**. All runners are assumed to be in a great mood. It will be easy to make this configurable.
 * **Unique skill levels**. Skill levels can be selected in the runner editor window, but this only affects the rating calculation and does not yet buff the skill during simulation.
 * **Skill heat graph** and **skill usage statistics**. It would be nice to see where and how often your skills are activated. 
 * **Visualizations of zones** like where corners, hills, phases, and sections start and end.
