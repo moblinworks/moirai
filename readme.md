@@ -11,6 +11,13 @@ Some hotkeys:<br>
 `>` - Increase playback speed <br>
 `,` - Back one frame <br>
 `.` - Forward one frame <br>
+`Ctrl+I` - Import HorseACT race data (experimental)
+
+In runner editor window:<br>
+`Ctrl+S` - Save runner<br>
+`Ctrl+O` - Load runner<br>
+`Ctrl+C` - Copy runner (to clipboard)<br>
+`Ctrl+V` - Paste runner (from clipboard)
 
 ## Features
 
@@ -27,4 +34,3 @@ Some hotkeys:<br>
 * **Unique skill levels**. Skill levels can be selected in the runner editor window, but this only affects the rating calculation and does not yet buff the skill during simulation.
 * **Skill heat graph** and **skill usage statistics**. It would be nice to see where and how often your skills are activated. 
 * **Visualizations of zones** like where corners, hills, phases, and sections start and end.
-* **Saving and loading** individual runners to and from disk.
